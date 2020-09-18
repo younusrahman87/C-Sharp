@@ -40,3 +40,61 @@ Fält:
     3. Iterera genom Personer och deras bilar.
     4. Gör så att användare själv skriver inte BÅDE personer och deras bilar direkt i konsolapplikationen.
 
+
+
+
+
+
+
+        private int logo 
+        {
+            set
+            {
+                this.logo = value;
+            }
+
+            get
+            {
+                return this.logo;
+            }
+        }
+
+        private string modell 
+        {
+            set
+            {
+                this.modell = value;
+            }
+
+            get
+            {
+                return this.modell;
+            }
+        }
+
+       
+        private string reg_nummer 
+        { 
+            set
+            {
+                this.reg_nummer = value;
+            }
+            get
+            {
+                return this.reg_nummer;
+            }
+        }
+
+        private int vikt 
+        {
+            set
+            {
+                this.vikt = value;
+            }
+            get
+            {
+                return this.vikt;
+            }
+        }
+
+

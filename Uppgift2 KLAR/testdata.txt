@@ -14,6 +14,9 @@ Testdata 1:
 	Vinnande sluttid: 0 timmar 52 minuter 20 sekunder
 	Antal tävlande: 1
 	Programmet avslutas
+	total sec = 3140
+
+
 
 Testdata 2:
  
@@ -25,6 +28,7 @@ Testdata 2:
 	Tim: 18 Min: 52 Sek: 20
 	Antal tävlande: 1
 	Programmet avslutas
+	total sec = 67940
 	
 Testdata 3:
 
